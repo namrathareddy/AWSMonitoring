@@ -7,7 +7,7 @@
 <title>Error Page</title>
 </head>
 <body>
-<h3>There's some error while logging in!!!</h3>
+<h3> There's some error while logging in!!!</h3>
 
 </body>
 </html>
